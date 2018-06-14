@@ -17,6 +17,7 @@ Here's a few of my favorite animations::
 ## Running this project on your machine
 
 This repo includes Jupyter Notebooks of each lesson structured in the same way as the module 12 Steps to Navier Stokes. You can find my own version of those lessons in the lessons folder or check them out directly below. My most significant addition to this project was the inclusion of animation code for each of the lessons. They link to a NBViewer version of the plot so you can look at the embedded animation and the LaTeX formatting as it was intended:
+
 '''
 * [Step 1: 1D Linear Convection](https://nbviewer.jupyter.org/github/Angelo1211/CFDPython/blob/master/Lessons/S01_1D_Linear_Convection.ipynb)
 * [Step 2: 1D Non-Linear Convection](https://nbviewer.jupyter.org/github/Angelo1211/CFDPython/blob/master/Lessons/S02_Non-linear_convection.ipynb)
@@ -30,7 +31,6 @@ This repo includes Jupyter Notebooks of each lesson structured in the same way a
 * [Step 10: 2D Poisson Equation](https://nbviewer.jupyter.org/github/Angelo1211/CFDPython/blob/master/Lessons/S10_2D_Poisson_Eq.ipynb)
 * [Step 11: Cavity Flow with Navier-Stokes](https://nbviewer.jupyter.org/github/Angelo1211/CFDPython/blob/master/Lessons/S11_Cavity_Flow_W_NS.ipynb)
 * [Step 12: Channel Flow with Navier-Stokes](https://nbviewer.jupyter.org/github/Angelo1211/CFDPython/blob/master/Lessons/S12_Channel_Flow_W_NS.ipynb)
-*
 '''
 
 
