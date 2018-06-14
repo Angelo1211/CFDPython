@@ -8,7 +8,7 @@ This repo contains my work done to build a simple CFD solver in Python following
 
 Here's a few of my favorite animations::
 
-![Alt text](/gifs/2dDiff.gif "2D Cavity Flow")
+![Alt text](/gifs/NSCavityLid2.gif "2D Cavity Flow")
 
 ![Alt text](/gifs/1dBurgers.gif "1D Burgers Equation")
 
